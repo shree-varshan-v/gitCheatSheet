@@ -1,8 +1,4 @@
-# gitCheatSheet
-
-# Git-and-Github-Cheatsheet
-
-# Git and Github Cheat Sheet
+# Git Cheat Sheet
 ### Git Commands
 To get the version:
 ```
